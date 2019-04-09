@@ -1,0 +1,30 @@
+
+						Contents
+
+--------------------------------------------------------
+
+
+2	-	Introduction
+
+	2.1		-	Running PHP Scripts in Netbeans
+
+3	-	General Types
+
+	3.3		-	Type - Integer (Demo)
+	3.4		-	Type - Decimal/Floating Point (Demo)
+	3.5		-	Type - Boolean (Demo)
+	3.6		-	Type - Constant (Demo)
+	3.7		-	Determine Variable Types (Demo)
+
+4	-	Functions
+
+	4.3		-	Creating a Function (Demo)
+	4.4		-	Calling a Function (Demo)
+	4.5		-	Passing Parameters (Demo)
+	4.6		-	Default Parameters (Demo)
+	4.7		-	Returning Values (Demo)
+	4.8		-	Variable Functions (Demo)
+	4.9		-	Variable Scope (Demo)
+	4.10	-	Global Variables (Demo)
+
+5	-	Strings
