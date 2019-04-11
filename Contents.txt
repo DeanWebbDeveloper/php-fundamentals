@@ -92,3 +92,25 @@
 	8.14	-	While Loop (Demo)
 	8.15	-	For Loop (Demo)
 	8.16	-	Alternate Syntax for Control Structures (Demo)
+
+9	-	Databases
+
+	9.5		-	Setting up MySQL on Windows (Demo)
+	9.7		-	Connecting to Database (Demo)
+	9.8		-	Close Database Connection (Demo)
+	9.9		-	Executing a Query - Delete, Update, Insert (Demo)
+	9.10	-	Grabbing Inserted Id (Demo)
+	9.11	-	Select Data From Database (Demo)
+	9.12	-	Prepared Statement Example
+	9.13	-	PDO Example
+
+10	-	Web Programming
+
+	10.4	-	Web Site Structure and Layout (Demo)
+	10.5	-	Shorten Syntax with HTML (Demo)
+	10.6	-	$_GET (Demo)
+	10.7	-	$_POST (Demo)
+	10.8	-	Form Validation (Demo)
+	10.9	-	session_start() (Demo)
+	10.10	-	$_SESSION (Demo)
+	10.11	-	session_destroy() (Demo)
